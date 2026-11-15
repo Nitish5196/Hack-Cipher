@@ -43,3 +43,10 @@ oh when itried to update pcb i got 3 erros with the Q1 but i fixed it now yay
 Almost done with pcb arrangement ![image](https://cdn.hackclub.com/01a1dfcc-52b5-7db4-991b-98a8b68872a7/paste-1794756068715.png)
 
 **Total time spent: 4.7h**
+
+## Nov 15 2026<PCB designing >
+![image](https://cdn.hackclub.com/01a1dff7-bb9e-7487-b0c3-26e95f2df05a/paste-1794758913939.png)![image](https://cdn.hackclub.com/01a1dff9-2028-73c7-9be3-2f7d3b84c242/paste-1794759004521.png)
+trying to fit all the components in tthe compact pcb is super hard but ill do it !!
+![image](https://cdn.hackclub.com/01a1e006-6a82-7d35-83c4-b11b0e877fbd/paste-1794759875680.png)![image](https://cdn.hackclub.com/01a1e007-1cb3-7794-84b3-007677a3bb2f/paste-1794759920406.png)
+OKay so i downoaded all the 3d step files from GrabCad and added the 3d step to the components in the PCB and arranged them properly and aligned them to ensure their pins match and are not overlaping . i still need to route all this and make a 3d enclousore for it . 
+**Total time spent: **1.2hr**
