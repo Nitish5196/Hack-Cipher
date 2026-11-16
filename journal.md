@@ -49,4 +49,14 @@ Almost done with pcb arrangement ![image](https://cdn.hackclub.com/01a1dfcc-52b5
 trying to fit all the components in tthe compact pcb is super hard but ill do it !!
 ![image](https://cdn.hackclub.com/01a1e006-6a82-7d35-83c4-b11b0e877fbd/paste-1794759875680.png)![image](https://cdn.hackclub.com/01a1e007-1cb3-7794-84b3-007677a3bb2f/paste-1794759920406.png)
 OKay so i downoaded all the 3d step files from GrabCad and added the 3d step to the components in the PCB and arranged them properly and aligned them to ensure their pins match and are not overlaping . i still need to route all this and make a 3d enclousore for it . 
-**Total time spent: **1.2hr**
+
+**Total time spent: 1.2hr**
+
+## Nov 15 2026<PCB routing>
+Since the PCB is already compact , i dont think i can fit the TP4056 in it so im planning to add 4 header pins to the pcb and connect the tp4056 using jumper cables or soldering wires 
+so this is the final layout ![image](https://cdn.hackclub.com/01a1e46b-a6a3-7862-91b1-acfb5c6d97d9/paste-1794833620891.png)![image](https://cdn.hackclub.com/01a1e46b-fab9-7fbd-b268-a4af60540f5f/paste-1794833642553.png)
+### PCB done
+okay so the PCB is routed now with 0 errors in DRC and for the IR leds ill bend them when i solder them in the pcb ![image](https://cdn.hackclub.com/01a1e480-22d7-7559-bc87-85943ce15c5b/paste-1794834964176.png)![image](https://cdn.hackclub.com/01a1e481-30b3-76e5-bebf-25af85764b3c/paste-1794835033532.png)
+OKAy thats better  ![image](https://cdn.hackclub.com/01a1e48a-5480-7a86-b49d-c1ceccd0536b/paste-1794835632666.png) now all i need to add is mounting holes to this and the PCB will be done after i export the step file and gerbers YAYYY
+![image](https://cdn.hackclub.com/01a1e490-97e7-7047-969c-6edcb2b872f4/paste-1794836041322.png)
+Added the mounting holes and not much art on the PCB since its gonna be covered by the case anyway 

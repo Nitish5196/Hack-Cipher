@@ -524,9 +524,9 @@
     "last_paths": {
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "../Production/",
       "specctra_dsn": "",
-      "step": "",
+      "step": "../Production/Hack-Cipher-PCB.step",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -661,7 +661,7 @@
         "uuid": "3248a017-eeee-4de1-9007-23282c982b00"
       }
     ],
-    "used_designators": "#FLG1-3,R1-3,J1-6,SW1-6,D1-4,#PWR1-22,LCD1,Q1,BAT1,POWER_SWITCH1,SD_Card1",
+    "used_designators": "#FLG1-3,R1-3,J1-6,SW1-6,D1-4,#PWR1-22,LCD1,Q1,BAT1,POWER_SWITCH1,SD_Card1,H1-2",
     "variants": []
   },
   "sheets": [
